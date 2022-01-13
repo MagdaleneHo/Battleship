@@ -1,7 +1,7 @@
 # Battleship
 A battleship game created for an assignment. This program was co-created among 5 members. 
 
-The assignment had many requirements such as: 
+The assignment requirements are: 
  1. The mission of the player is to eliminate the battleships of their opponent. 
  2. The game should have a 20 rows x 60 columns size, which you should mask the area with ‘#’ characters. 
  3. The game should allow player to choose among 3 stages of difficulties. For example: 
@@ -29,7 +29,8 @@ The assignment had many requirements such as:
  9. Or, game will end if player not able to destroy 5 ships and has no remaining booms. The screen should display the message “You’ve no luck today, try again.” 
 
 
-The description of the game: 
+
+# Game description: 
 
 In this Battleship Game, the main purpose is for the users to successfully ‘boom’ a specific amount of randomly generated ships within a specific number of attempts. For Game Mode 1 (Beginner), Game Mode 2 (Intermediate) and Game Mode 3 (Advanced), the number of ships generated on the board is 80, 50 and 20 respectively. Meanwhile, there are several added game features which are custom mode, clues, rematch, name of user, human-like prompts, and logo of the game to give users an amazing experience playing.
 
